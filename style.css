@@ -1,0 +1,33 @@
+body {
+  background-color: springgreen;  
+}
+
+h1 {
+  color: black;
+  font-family: Comic Sans MS;
+  text-align: center;
+}
+
+p {
+  color: black;
+  text-align: center;
+  font-family: Comic Sans MS  
+}
+
+img {
+  display: block;
+  height: 450px;
+  margin-left: auto;
+  margin-right: auto;
+}
+  
+button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid white;
+  width: 150px;
+  height: 50px;
+  background-color: springgreen;
+  cursor: pointer;
+}
